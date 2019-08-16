@@ -7,6 +7,10 @@ just do <kbd>ctrl</kbd><kbd>q</kbd><kbd>I</kbd> the first time you use it.
 
 Hope you have fun using this!
 
+## Dependencies
+This config uses [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) to manage
+the plugins.
+
 ## Manual
 The default key binding for this setup is <kbd>ctrl</kbd><kbd>q</kbd>. For
 help, you can do key binding and <kbd>?</kbd>.
